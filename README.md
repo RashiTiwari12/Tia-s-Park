@@ -10,9 +10,9 @@ CSS3 – Styling and responsive design
 
 JavaScript (ES6) – Interactivity and logic
 
-GLB (3D Model) – Used for rendering 3D content
+GLB (3D Model - blender) – Used for rendering 3D content
 
-(Optional) Three.js – If used for loading/rendering GLB models
+Three.js – If used for loading/rendering GLB models
 
 ⚙️ How to Run the Project
 
