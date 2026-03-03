@@ -14,6 +14,8 @@ GLB (3D Model - blender) – Used for rendering 3D content
 
 Three.js – Used for loading/rendering GLB models
 
+GSAP- for Animation/Motion
+
 ⚙️ How to Run the Project
 
 Clone or download the repository
@@ -21,5 +23,3 @@ Clone or download the repository
 Open the project folder
 
 Run index.html in a browser
-
-For best results, use Live Server (VS Code recommended)
