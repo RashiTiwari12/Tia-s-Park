@@ -1,6 +1,6 @@
 Work in Progress....
 This project demonstrates a web-based interactive experience built using HTML, CSS, and JavaScript, with support for 3D models in GLB format. It focuses on responsive UI design and interactive visuals, suitable for creative or 3D-enabled web applications.
-
+Use "w", "s", "a", "d" to move the model-Tia
 
 🚀 Technologies Used
 
