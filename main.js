@@ -325,6 +325,12 @@ window.addEventListener("keydown", onKeyDown);
 
 // ── ANIMATION LOOP ───────────────────────────────────────────────────────────
 function animate() {
+  camera.position.copy(
+    character.instance
+      ? character.instance.position.clone().add(new THREE.Vector3(-10, 10, -10))
+      : camera.position,
+  );
+
   controls.update();
   renderer.render(scene, camera);
 }
